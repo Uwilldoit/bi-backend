@@ -98,3 +98,7 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.wang.bi.controller
+yuapi:
+  client:
+    access-key: tm8grs4a9d3trgacacu8h49ak7kqa89o
+    secret-key: xfzuzwce2hrhlr46w2q4wv61fzbt2mv7
